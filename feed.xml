@@ -14,7 +14,7 @@
     <ns0:image href="https://seu-dominio.com/podcast/cover.jpg"/>
     <ns0:owner>
       <ns0:name>Diego &amp; Ana</ns0:name>
-      <ns0:email>contato@deliverydesucesso.com.br</ns0:email>
+      <ns0:email>danielzgou@hotmail.com</ns0:email>
     </ns0:owner>
     <ns1:link href="https://d4nni2-collab.github.io/delivery-de-sucesso-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -27,7 +27,7 @@
       <enclosure url="https://d4nni2-collab.github.io/delivery-de-sucesso-podcast/episodes/ep001_delivery_de_sucesso.mp3" length="19648611" type="audio/mpeg"/>
       <ns0:image href="https://d4nni2-collab.github.io/delivery-de-sucesso-podcast/episodes/thumb_ep001.png"/>
       <guid isPermaLink="false">https://d4nni2-collab.github.io/delivery-de-sucesso-podcast/ep001</guid>
-      <pubDate>Sun, 05 Apr 2026 18:49:21 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2026 19:03:39 +0000</pubDate>
       <ns0:keywords>precificação, delivery, restaurante, podcast</ns0:keywords>
     </item>
   </channel>
