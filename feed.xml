@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Delivery de Sucesso</title>
+    <description>O Delivery de Sucesso é o podcast semanal para donos de restaurante e operadores de delivery que querem escalar seus resultados. Diego e Ana trazem estratégias práticas, cases reais e tendências do mercado foodtech brasileiro. 3 episódios por semana com conteúdo direto ao ponto.
+</description>
+    <language>pt-BR</language>
+    <link>https://deliverydesucesso.com.br</link>
+    <ns0:author>Diego &amp; Ana</ns0:author>
+    <ns0:explicit>false</ns0:explicit>
+    <ns0:category text="Business">
+      <ns0:category text="Entrepreneurship"/>
+    </ns0:category>
+    <ns0:image href="https://seu-dominio.com/podcast/cover.jpg"/>
+    <ns0:owner>
+      <ns0:name>Diego &amp; Ana</ns0:name>
+      <ns0:email>contato@deliverydesucesso.com.br</ns0:email>
+    </ns0:owner>
+    <ns1:link href="https://d4nni2-collab.github.io/delivery-de-sucesso-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>EP001 - Estratégias de precificação para delivery</title>
+      <description>Neste episódio, Diego e Ana discutem estratégias de precificação para delivery com dicas práticas para donos de restaurante.</description>
+      <ns0:summary>Neste episódio, Diego e Ana discutem estratégias de precificação para delivery com dicas práticas para donos de restaurante.</ns0:summary>
+      <ns0:episode>1</ns0:episode>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:duration>00:20:26</ns0:duration>
+      <enclosure url="https://d4nni2-collab.github.io/delivery-de-sucesso-podcast/episodes/ep001_delivery_de_sucesso.mp3" length="19648611" type="audio/mpeg"/>
+      <ns0:image href="https://d4nni2-collab.github.io/delivery-de-sucesso-podcast/episodes/thumb_ep001.png"/>
+      <guid isPermaLink="false">https://d4nni2-collab.github.io/delivery-de-sucesso-podcast/ep001</guid>
+      <pubDate>Sun, 05 Apr 2026 18:49:21 +0000</pubDate>
+      <ns0:keywords>precificação, delivery, restaurante, podcast</ns0:keywords>
+    </item>
+  </channel>
+</rss>
